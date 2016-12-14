@@ -13,7 +13,7 @@ import org.springframework.web.servlet.view.InternalResourceViewResolver;
 public class WebConfig extends WebMvcConfigurerAdapter{
 	
 	public void addResourceHandlers(ResourceHandlerRegistry registry) {
-		registry.addResourceHandler("/resources/**").addResourceLocations("/resources/images/");
+		registry.addResourceHandler("/resources/**").addResourceLocations("/resources/");
 	}
 	
 	

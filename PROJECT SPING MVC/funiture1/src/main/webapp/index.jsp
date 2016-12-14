@@ -64,7 +64,7 @@
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="Land.jsp" class=""><b>Home</b></a></li>
+        <li><a href="login" class=""><b>Home</b></a></li>
         <li><a href="#"><b>New</b></a></li>
         <li><a href="#"><b>About Us</b></a></li>
 		 <li class="dropdown">
@@ -91,7 +91,7 @@
                     <li class="divider"></li>
                     <li><a href="arrival.jsp"><b>New Arrivals</b></li>
                 </ul>
-				<li><a href="#"><b>Contact</b></a></li>
+				<li><a href="login"><b>Contact</b></a></li>
             </li>
       
 	   <form role="search" class="navbar-form navbar-left">
@@ -101,7 +101,7 @@
         </form>
 		<i class="fa fa-serch"></i>
         <ul class="nav navbar-nav navbar-right">
-            <li><a href="LOG.jsp" class=""><b>Login</b></a></li>
+            <li><a href="login" class=""><b>Login</b></a></li>
 			<li><a href="REG.jsp" class=""><b>Registeration</b></a></li>
         </ul>
 	</ul>
@@ -179,22 +179,14 @@
       
     </div>
     <div class="col-sm-8">
-      <p>A thousand new ideas. 
-Our new brand identity is a celebration of the creative spirit that makes each of us and our homes unique</p>
+      <p>A thousand new ideas. Our new brand identity is a celebration of the creative spirit that makes each of us and our homes unique</p>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/OaLkpC6jejU" frameborder="0" allowfullscreen></iframe>
     </div>
   
 </div>
 
 <!-- Third Container (Grid) -->
-<di
-
-
-
-
-
-
-v class="container-fluid bg-3 text-center">
+<div class="container-fluid bg-3 text-center">
    <div class="row">
     <div class="col-sm-3">
 	<h3>Dining Room</h3>
@@ -251,10 +243,68 @@ v class="container-fluid bg-3 text-center">
 </div>
 
 
+<footer>
+<div class="container-fluid bg-4 text-center">
+
+ <div class="row"> 
+	<div class="col-sm-6" >
+              <div id="meta-4" class="widget widgetFooter widget_meta">
+              <h4 class="widgettitle">Subscribe :</h4>
+
+              <div class="form-group">
+                <div class="input-group">
+                  <span class="input-group-addon">E-mail :</span>
+                  <input class="form-control" placeholder="Write your email .." type="text">
+                </div>
+              </div>
+
+              <div class="form-group">
+                <div class="input-group">
+                  <span class="input-group-addon">Phone  :</span>
+                  <input class="form-control" placeholder="+96777000000" type="text">
+                   <span class="input-group-btn">
+                    <button class="btn btn-primary" type="button">Subscribe !</button>
+                  </span>
+                </div>
+              </div>
+	
+    </div>
+  </div>
+    <div class="col-sm-6">
+	 <h1 class="title-widget">Contact Detail </h1>
+                                
+                            <div class="footerp"> 
+                                
+                                <h2 class="title-median">INTERNAL Pvt. Ltd.</h2>
+                                <p><b>Email id:</b> <a href="mailto:info@internal.com">info@internal.com</a></p>
+                                <p><b>Customer care Numbers</b>
+
+								<b style="color:#ffc106;">(8AM to 10PM):</b>  +91-8130890090, +91-8130190010  </p>
+    
+								<p><b>Corp Office / Postal Address</b></p>
+								<p><b>Phone Numbers : </b>7042827160, </p>
+								<p> 011-27568832, 9868387223</p>
+                            </div>
+	</div>
 
 
-<!--footer closed-->
-<a href="hello">hello</a>
+
+    <hr>
+        <div class="text-center center-block">
+            <p class="txt-railway"> www.internal.com </p>
+            <br />
+                <a href="https://www.facebook.com/bootsnipp"><i id="social-fb" class="fa fa-facebook-square fa-3x social"></i></a>
+	            <a href="https://twitter.com/bootsnipp"><i id="social-tw" class="fa fa-twitter-square fa-3x social"></i></a>
+	            <a href="https://plus.google.com/+Bootsnipp-page"><i id="social-gp" class="fa fa-google-plus-square fa-3x social"></i></a>
+	            <a href="mailto:bootsnipp@gmail.com"><i id="social-em" class="fa fa-envelope-square fa-3x social"></i></a>
+		</div>
+    <hr>
+
+
+<br />
+<p> Copyright © 2016 Internal. All Rights Reserved.</p>
+</div>
+</footer>
 </body>
 </html>
 
