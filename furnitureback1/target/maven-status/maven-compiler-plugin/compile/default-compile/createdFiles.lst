@@ -1,0 +1,10 @@
+com\niit\furnitureback\dao\ProductDAO.class
+com\niit\furnitureback\model\Cart.class
+com\niit\furnitureback\dao\UserDAO.class
+com\niit\furnitureback\model\Item.class
+com\niit\furnitureback\model\Product.class
+com\niit\furnitureback\dao\ProductDAOImpl.class
+com\niit\furnitureback\dao\UserDAOImpl.class
+com\niit\furnitureback\App.class
+com\niit\furnitureback\model\User.class
+com\niit\furniureback\config\AppContext.class
